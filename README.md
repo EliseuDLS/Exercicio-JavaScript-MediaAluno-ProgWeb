@@ -1,1 +1,1 @@
-# Media-Aluno-ProgWeb
+# Exercicio-JavaScript-MediaAluno-ProgWeb
